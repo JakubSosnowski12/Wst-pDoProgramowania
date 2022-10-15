@@ -1,0 +1,2 @@
+# Wst-pDoProgramowania
+Laboratoria Python
